@@ -176,14 +176,8 @@ Contributions, issues, and feature requests are welcome!
 - [ ] Dark/Light theme toggle
 - [ ] Voice input support
 
-## 📧 Support
 
-If you encounter any issues or have questions, please open an issue on the project repository.
-
----
-
-Made with ❤️ using Django and Google Gemini AI
 =======
 # document-chatbot
 AI-powered chatbot that answers questions from PDF and text files.
->>>>>>> c25cf25955ed677b08fae98abb0adf9cbbd2b210
+
