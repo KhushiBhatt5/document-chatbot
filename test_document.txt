@@ -1,0 +1,18 @@
+Sample Document for Testing
+
+This is a test document for the AI Document Chatbot application.
+
+Key Information:
+- The chatbot was built using Django 5.2.8
+- It supports both PDF and TXT file formats
+- The AI model used is Google Gemini 1.5 Flash
+- The UI features a modern, glassmorphic design
+
+Features:
+1. File upload functionality
+2. Real-time chat with AI
+3. Context-aware responses
+4. Session management
+5. Beautiful animations
+
+This document can be used to test the text extraction and question-answering capabilities of the chatbot.
