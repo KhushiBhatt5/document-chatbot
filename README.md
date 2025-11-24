@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI Document Chatbot
 
 A beautiful, modern chatbot application that lets you upload PDF and TXT files and chat with an AI assistant about their contents using Google's Gemini AI.
@@ -182,3 +183,7 @@ If you encounter any issues or have questions, please open an issue on the proje
 ---
 
 Made with ❤️ using Django and Google Gemini AI
+=======
+# document-chatbot
+AI-powered chatbot that answers questions from PDF and text files.
+>>>>>>> c25cf25955ed677b08fae98abb0adf9cbbd2b210
